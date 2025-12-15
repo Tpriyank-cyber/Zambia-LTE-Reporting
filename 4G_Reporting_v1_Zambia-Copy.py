@@ -6,7 +6,7 @@ import streamlit as st
 KPI_Obj = [
     'Cell Avail excl BLU', 'Total E-UTRAN RRC conn stp SR', 'E-UTRAN E-RAB stp SR',
     'E-RAB DR RAN', 'E-UTRAN Avg PRB usage per TTI DL', 'Average CQI',
-    'Avg RRC conn UE', 'Non-GBR DL throughput', 'Total LTE data volume, DL + UL', 'AVG UE Distance',
+    'Avg RRC conn UE', 'Avg IP thp DL QCI9', 'Total LTE data volume, DL + UL', 'AVG UE Distance',
     'Intra eNB HO SR', 'E-UTRAN Intra-Freq HO SR', 'E-UTRAN Inter-Freq HO SR'
 ]
 
